@@ -1,2 +1,2 @@
 *.Rmd linguist-detectable=true
-*.Rmd linguist-language=RMarkdown
+*.Rmd linguist-language=R
