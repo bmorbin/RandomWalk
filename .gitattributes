@@ -1,2 +1,2 @@
 *.Rmd linguist-detectable=true
-*.Rmd linguist-language=R
+*.Rmd linguist-language=sql
