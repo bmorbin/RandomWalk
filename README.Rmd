@@ -91,7 +91,3 @@ ax.set_title("Random Walk Simulation - 3 Roads")
 plt.show()
 ```
 
-```{r}
-head(mtcars)
-```
-
